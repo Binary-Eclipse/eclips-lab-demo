@@ -1,2 +1,2 @@
-# eclips-lab-demo
+# eclipse-lab-demo
 This is my first git repository.
